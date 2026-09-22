@@ -30,4 +30,21 @@ The Power BI report includes an Overview page and separate pages for each pollut
 * Cleaned Excel dataset screenshot 
 * Dashboard screenshots
 
+## Dashboard Preview
+
+### Overview
+![Overview Dashboard](Overview.png)
+
+### Carbon Monoxide
+![Carbon Monoxide Dashboard](Carbon_Monoxide.png)
+
+### Ozone
+![Ozone Dashboard](Ozone.png)
+
+### Sulphur Dioxide
+![Sulphur Dioxide Dashboard](Sulphur_Dioxide.png)
+
+### Nitrogen Dioxide
+![Nitrogen Dioxide Dashboard](Nitrogen_Dioxide.png)
+
 **Note:** This project was created for learning and data analytics portfolio purposes.
